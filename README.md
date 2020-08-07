@@ -1,8 +1,8 @@
-# express.js-server 
+# express.js-server
 
-## Basic template for Express.js server;
+## Simple template for express.js server;
 
-code for tutorial on my YouTube channel; 
+code for tutorial on my YouTube channel;
 
 https://www.youtube.com/watch?v=tQA9top1Sv0
 
