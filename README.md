@@ -2,7 +2,7 @@
 
 ## Simple template for express.js server;
 
-code for tutorial on my YouTube channel;
+## This is a code for tutorial on my YouTube channel;
 
 https://www.youtube.com/watch?v=tQA9top1Sv0
 
