@@ -4,6 +4,8 @@
 
 ## This is a code for tutorial on my YouTube channel;
 
+## It's free to use, no licence required;
+
 https://www.youtube.com/watch?v=tQA9top1Sv0
 
 🔥 FOLLOW ME ON:
