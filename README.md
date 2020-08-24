@@ -4,12 +4,6 @@ Simple template for express.js server;
 
 https://www.youtube.com/watch?v=tQA9top1Sv0
 
-🔥 FOLLOW ME ON:
-
-🚀 https://github.com/b-husein
-
-🚀 https://www.linkedin.com/in/pragmaticxyz/
-
 💻 USEFUL PLAYLISTS:
 
 👊 HTML5
